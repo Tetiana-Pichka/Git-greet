@@ -1,0 +1,2 @@
+Internet competition of the pupils of music schools is copyright – protected in Intellectual Property Office of Serbia, and in the World Intellectual Property Organization (WIPO)!
+4.	Выполните команду git status.
